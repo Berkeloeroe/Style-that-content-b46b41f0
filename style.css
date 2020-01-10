@@ -1,0 +1,41 @@
+.navbar{
+	display: flex;
+	justify-content: space-around;
+	background-color: orange;
+}
+
+.content{
+	display: flex;
+	flex-direction: column;
+	background-color: #fae6cd;
+	flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.content p{
+    display: block;
+    width: 100%;
+}
+
+
+.news{
+    width: 30%;
+}
+
+ h1~p{
+    text-align: center;
+}
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
